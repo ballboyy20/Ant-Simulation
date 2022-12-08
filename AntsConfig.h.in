@@ -1,0 +1,3 @@
+#define AntSimulation_VERSION_MAJOR @AntSimulation_VERSION_MAJOR@
+#define AntSimulation_VERSION_MINOR @AntSimulation_VERSION_MINOR@
+#define AntSimulation_VERSION_PATH @AntSimulation_VERSION_PATCH@
